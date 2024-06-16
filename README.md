@@ -77,7 +77,7 @@ make users
 ```
 
 <h2 id="architecture"> Architecture </h2>
-<b>Note: In "Monitoring and Analytics", it should be Grafana instead of Streamlit.</b>
+<b>Erratum: In "Monitoring and Analytics", it should be Grafana instead of Streamlit.</b>
 <img src="./images/project_diagram.jpg"/>
 
 
